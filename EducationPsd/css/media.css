@@ -1,0 +1,383 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+ @media (max-width: 575.98px) {
+    .banner_content h1 {
+        font-size: 38px;
+    }
+    .dropdown{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .search{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .menu ul li a{
+        padding: 0 0 !important;
+        text-align: right;
+        font-size: 16px;   
+    }
+    .cus_nav img{
+        width: 180px;
+    }
+    .banner_content{
+        margin-top: 70px;
+        margin-bottom: 90px;
+    }
+    .banner_content h1{
+        font-size: 26pt;
+    }
+    .edu_header h1, .desiration_content h1{
+        font-size: 22pt;
+    }
+    .edu_header {
+        padding-top: 45px;
+    }
+    .edu_header hr {
+        margin-bottom: 22px;
+    }
+    .edu_cont h2{
+        font-size: 20pt;
+    
+    }
+    .edu_cont p{
+        font-size: 15px;
+        margin-bottom: 0.5rem;
+    }
+    #education {
+        padding-bottom: 45px;
+    }
+    .p_cus {
+        padding-right: 195px;
+    }
+    .desiration {
+        padding: 45px 0;
+    }
+    .instagram {
+        text-align: center;
+    }
+    .instagram h2, .contact h2, .signup h2 {
+        padding-bottom: 0px;
+        font-size: 23pt;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .signup hr {
+        width: 279px;
+        margin-bottom: 29px;
+    }
+    .offer {
+        margin: 45px 0;
+    }
+    .offer_content h1 {
+        margin-bottom: 17px;
+        font-size: 22pt;
+    }
+    .circle p {
+        font-size: 15pt;
+    }
+    .card {
+        margin-bottom: 15px;
+    }
+    .custom_img{
+        width: 150px;
+        padding-bottom: 10px;
+    }
+    .cus_title h4{
+        font-size: 22pt;
+        text-align: center;
+    }
+    .cus_txt {
+        font-size: 13pt;
+    }
+    .font_awe i {
+        padding: 10px 135px !important;
+        margin-top: 20px !important;
+    }
+    .moment, .did{
+        padding:45px 0 !important;
+    }
+    .offer{
+        margin: 40px 0;
+    }
+    .desiration_content hr {
+        margin-bottom: 18px !important;
+    }
+    .custom_til h4 {
+        padding-top: 0;
+        font-size: 20px;
+        margin-bottom: 15px !important;
+        text-align: left;
+    }
+    .desiration_content h1 {
+        margin-top: 15px;
+    }
+    .twiter {
+        padding: 45px 0;
+    }
+    .cus_twit i {
+        font-size: 42px;
+        margin-bottom: 10px;
+    }
+    .cus_twit p {
+        font-size: 12pt;
+        margin-bottom: 10px;
+        line-height: 1.2;
+    }
+    .desiration_content hr {
+        margin-bottom: 35px;
+    }
+    .details h3 {
+        font-size: 20pt;
+    }
+    .details h5 {
+        font-size: 12pt;
+    }
+    .details ul li a i {
+        font-size: 17px;
+    }
+    .stand{
+        padding-bottom: 45px;
+    }
+    .teacher img {
+        margin: 23px;
+    }
+    .timeline {
+        padding: 45px 0;
+    }
+    .events h1 {
+        margin-bottom: 15px;
+     }
+     .custom_til h4 {
+        padding-top: 0px;
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .contacts {
+        padding: 40px 0;
+        background: white;
+    }
+    .cus_color {
+        padding-bottom: 0px;
+    }
+    .list-inline {
+        padding-left: 0;
+    }
+    .foot_nav ul li a {
+        font-size: 10pt;
+    }
+    .fot_right p {
+        font-size: 10pt;
+    }
+    }
+    /*Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) and (max-width: 767.98px) { 
+    .banner_content h1 {
+            font-size: 40px;
+        } 
+    .dropdown{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .search{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .menu ul li a{
+        padding: 0 0 !important;
+        text-align: right;
+        font-size: 18px;   
+    }
+    .banner_content{
+        margin-top: 105px;
+        margin-bottom: 120px;
+    }
+    /* .banner_content h1, .desiration_content h1{
+        font-size: 36pt; */
+    }
+    .font_awe i {
+        padding: 10px 185px !important;
+        margin-top: 35px !important;
+    }
+     }
+    
+    /*Medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) and (max-width: 991.98px) {
+        .banner_content h1 {
+           font-size: 39px !important;
+        }
+    .dropdown{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .search{
+        text-align: right;
+        padding: 0 0!important;
+    }
+    .menu ul li a{
+        padding: 0 0 !important;
+        text-align: right;
+        font-size: 18px;   
+    }
+    .banner_content{
+        margin-top: 105px;
+        margin-bottom: 120px
+    }
+    .cus_twit p {
+        font-size: 13pt;
+        margin-bottom: 8px;
+        line-height: 1.5;
+      }
+    .details h3 {
+        font-size: 20pt;
+    }
+    .details h5 {
+        font-size: 12pt;
+     }
+     .details p {
+        font-size: 11pt;
+     }
+     .details ul li a i {
+        font-size: 21px;
+    }
+    .cus_title h4{
+        font-size: 22px;
+    }
+    .cus_img{
+        margin-top: 20px;
+    }
+    .desiration, .offer, .moment .twiter, .cus_color{
+        padding: 45px 0;
+    }
+    .offer_content h1 {
+        margin-bottom: 14px;
+    }
+    .edu_header h1, .banner_content h1, .desiration_content h1{
+        /* font-size: 32pt; */
+    }
+    .desiration_content h1 {
+        font-size: 30pt;
+     }
+     .cus_title hr{
+        width: 180px;
+     }
+     .font_awe i {
+        padding: 10px 340px !important;
+        margin-top: 30px !important;
+    }
+    .offer {
+        margin: 27px 0;
+    }
+    .cus_title hr {
+        width: 160px;
+    }
+    .cus_title h4 {
+        font-size: 20px;
+    }
+    .instagram hr, .signup hr, .contact hr {
+        width: 310px;
+        margin-bottom: 20px;
+     }
+    .signup h2, .contact h2, .instagram h2{
+        padding-left: 10px;
+        font-size: 25px;
+        padding-bottom: 0;
+        padding-top: 10px;
+    }
+    .card{
+        margin-bottom: 15px;
+    }
+    .edu_img img{
+        margin-top: 85px;
+    }
+    .cus_twit i {
+        font-size: 41px;
+        margin-bottom: 12px;
+       }
+    }
+    /*card start*/
+    .offer {
+        margin: 50px 0;
+    }
+    .cus_tstt{
+        font-size: 12pt;
+     }
+     .cus_kid p {
+        padding-top: 10px;
+        font-size: 11pt;
+    }
+    .font_awe i {
+        padding: 10px 460px;
+        margin-top: 40px;
+    }
+    .foot_nav ul li a {
+        font-size: 10pt
+    }
+    .fot_right p {
+        font-size: 9pt;
+    }
+    }
+    /*Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) and (max-width: 1199.98px) { 
+        .banner_content h1 {
+            font-size: 48px;
+        }
+    #education{
+        padding-bottom: 50px;
+    }
+    .edu_header{
+        padding-top: 50px;
+    }
+    .banner_content{
+        margin-top: 225px;
+        margin-bottom: 100px
+    }
+    /* .b_n{
+        margin-top: 225px;
+        margin-bottom: 100px;
+    } */
+    .edu_img img{
+        margin-top: 30px;
+    }
+    .cus_txt {
+        font-size: 12pt;
+     }
+    .font_awe i {
+        padding: 10px 460px;
+        margin-top: 45px;
+    }
+    .offer {
+        margin: 35px 0;
+    }
+    .offer, .moment, .twiter, .did, .timeline, .cus_color {
+        padding: 50px 0;
+    }
+    .stand{
+        padding-bottom: 50px;
+    }
+    .cus_title hr {
+        width: 200px;
+    }
+    .cus_title h4{
+        font-size: 21px;
+    }
+    .signup h2, .contact h2, .instagram h2{
+        font-size: 24px;
+        padding-bottom: 0px;
+    
+    }
+    .signup hr, .contact hr, .instagram hr{
+        width: 215px;
+        margin-bottom: 30px;
+    }
+    .foot_nav ul li a {
+        font-size: 12pt;
+    }
+    .fot_right p {
+        font-size: 10pt;
+    }
+    
+    /*Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) { 
+    
+     }
